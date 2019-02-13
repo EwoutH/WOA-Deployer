@@ -1,4 +1,4 @@
-# WOA Deployer for Lumia
+# WOA Deployer for Lumia [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/WOA-Project/WOA-Deployer?branch=master&svg=true)](https://ci.appveyor.com/project/WOA-Project/WOA-Deployer)
 The application to install Full Windows 10 into your phone!
 
 ![image](Docs/Screenshot.png)
