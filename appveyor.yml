@@ -1,7 +1,7 @@
 image: Visual Studio 2017
 
 build:
-  project: "Source\WoaDeployer.sln"
+  project: Source\WoaDeployer.sln
 
 artifacts:
     - path: bin\Release\*.*
