@@ -1,7 +1,7 @@
 image: Visual Studio 2017
 configuration: Release
 
-before_build: dotnet restore src
+before_build: nuget restore Source\WoaDeployer.sln
 
 build:
   project: Source\WoaDeployer.sln
